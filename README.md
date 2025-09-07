@@ -50,17 +50,4 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ethsam&theme=radical&margin-w=10&margin-h=10&no-frame=true" alt="GitHub trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ethsam&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ethsam&layout=compact&langs_count=8&theme=radical" height="180"/>
-</p>
-
----
-
 <p align="center">✨ Building solutions that connect business & technology ✨</p>
