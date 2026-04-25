@@ -154,19 +154,6 @@ Projects I've led or been deeply involved in over the years:
 
 ---
 
-### GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ethsam&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethsam&layout=compact&hide_border=true&langs_count=8" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethsam&hide_border=true" />
-</p>
-
----
-
 ### Sectors
 
 `Press & Media` `Hospitality` `Tourism` `Healthcare` `HR & Staffing` `Real Estate` `E-commerce` `Events` `Public Sector` `Legal Notices` `Public Procurement`
