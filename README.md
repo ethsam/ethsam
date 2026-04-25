@@ -138,5 +138,5 @@ I sit at the intersection of **code, strategy and execution** — I understand t
 
 <p align="center">
   <strong>Need a technical partner who understands business?</strong><br/>
-  <a href="mailto:contact@ethsam.fr">contact@ethsam.fr</a> &middot; <a href="https://www.agence.re">agence.re</a> &middot; <a href="https://www.scaleinsight.fr">scaleinsight.fr</a>
+  <a href="mailto:contact@ethsam.fr">contact@ethsam.fr</a> &middot; <a href="https://www.agence.re">agence.re</a> &middot; <a href="https://www.scaleinsight.fr">scaleinsight.fr</a> &middot; <a href="https://www.viceversa.re">viceversa.re</a>
 </p>
