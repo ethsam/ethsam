@@ -1,5 +1,6 @@
 <h1 align="center">Samuel ETHEVE</h1>
-<h3 align="center">Developer &middot; Entrepreneur &middot; Digital Architect &middot; Reunion Island</h3>
+<h3 align="center">Developer &middot; Entrepreneur &middot; AMOA Consultant &middot; Digital Project Lead</h3>
+<h4 align="center">Based in La Reunion &middot; Working across France & Indian Ocean</h4>
 
 <p align="center">
   <a href="https://www.ethsam.fr" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ethsam.fr-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
@@ -9,36 +10,52 @@
 
 ---
 
-### In short
+### Who I am
 
-17 years building web platforms, business tools and automations. Based in **La Reunion**, working with clients across France and the Indian Ocean region.
+17 years building platforms, business tools and automations. I design, I decide, I build, I ship.
 
-I sit at the intersection of **code, strategy and execution** — I understand the business need, architect the solution, build it, and make sure it actually works in production.
+I work at the intersection of **development, strategy and project management** — which means I can talk to a CEO, a business team, a developer or a technical provider without losing the thread.
 
-**What I do best:** turning complex business requirements into clean, robust systems that last.
+**My approach:** a clear problem, a solid solution, a measurable result. No fluff, no cosmetic layers, no jargon to impress.
 
 ---
 
-### What I've built
+### What I do
+
+- Custom web platforms & business software
+- Workflow automation & process optimization
+- AI integration into real business workflows
+- ERP/CRM integrations (Sage, EBP, HubSpot, AS400)
+- AMOA consulting & digital project management
+- Legacy system modernization & data migration
+
+---
+
+### My brands
 
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <a href="https://www.agence.re"><strong>Agence.re</strong></a><br/>
       <sub>AI & Automation Agency</sub><br/><br/>
-      <sub>Custom AI agents, workflow automation, ERP/CRM integrations (Sage, EBP, HubSpot). 20+ clients, 100+ projects delivered. Sovereign data deployment.</sub>
+      <sub>Custom AI agents, workflow automation, ERP/CRM integrations. 20+ clients, 100+ projects. Sovereign data deployment on dedicated machines.</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <a href="https://www.scaleinsight.fr"><strong>ScaleInsight</strong></a><br/>
       <sub>Digital Consulting (AMOA)</sub><br/><br/>
-      <sub>Strategic consulting for digital transformation. Business analysis, custom platform development, project management from concept to delivery.</sub>
+      <sub>Strategic consulting for digital transformation. Business analysis, custom development, project management from concept to production.</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <a href="https://www.viceversa.re"><strong>ViceVersa</strong></a><br/>
       <sub>Digital & Events Agency</sub><br/><br/>
-      <sub>Full-service digital agency: marketing, communications, event management and web development for local businesses.</sub>
+      <sub>Full-service agency: marketing, communications, event management and web development for local businesses in La Reunion.</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
+      <a href="https://www.entrepreneur.re"><strong>entrepreneur.re</strong></a><br/>
+      <sub>Entrepreneurship Media</sub><br/><br/>
+      <sub>Web media dedicated to entrepreneurship, business insights and digital economy in La Reunion and the Indian Ocean region.</sub>
+    </td>
+    <td align="center" width="20%">
       <a href="https://www.ethsam.fr"><strong>ethsam.fr</strong></a><br/>
       <sub>Personal Portfolio</sub><br/><br/>
       <sub>17 years of work: press digitization, job boards, tourism directories, hotel platforms, digital kiosks, business software.</sub>
@@ -48,15 +65,32 @@ I sit at the intersection of **code, strategy and execution** — I understand t
 
 ---
 
+### Notable projects
+
+Projects I've led or been deeply involved in over the years:
+
+| Project | What I did |
+|---------|-----------|
+| **Le Quotidien de La Reunion** | Complete platform rebuild for one of the island's leading newspapers |
+| **JIR / Clicanoo** (Groupe Media) | Multi-year full redevelopment of the media group's digital ecosystem |
+| **Clicanoo Annonces Legales** | Legal notices platform — conception & development |
+| **Clicanoo Marches Publics** | Public procurement platform — conception & development |
+| **Promotions.re** | Promotional event platform for local businesses |
+| **Multiple hospitality platforms** | Hotel websites, booking integrations, tourism directories |
+| **Business software (various)** | Custom tools for healthcare, HR, staffing, real estate |
+
+---
+
 ### Featured open source
 
 <table>
   <tr>
     <td>
-      <a href="https://github.com/ethsam/symfony-dropzone"><strong>symfony-dropzone</strong></a><br/>
+      <a href="https://github.com/ethsam/symfony-dropzone"><strong>symfony-dropzone</strong></a>
+      &nbsp;&nbsp;
       <a href="https://packagist.org/packages/ethsam/symfony-dropzone"><img src="https://img.shields.io/packagist/dt/ethsam/symfony-dropzone.svg?style=flat-square&label=downloads" /></a>
       <img src="https://img.shields.io/packagist/v/ethsam/symfony-dropzone.svg?style=flat-square" /><br/>
-      <sub>Symfony Form Type integrating Dropzone.js with entity relationship support. Drag-and-drop file uploads with automatic OneToMany/ManyToOne data transformation. Published on Packagist.</sub>
+      <sub>Symfony Form Type integrating Dropzone.js with automatic entity relationship management. Drag-and-drop file uploads with OneToMany/ManyToOne data transformation. Published on Packagist.</sub>
     </td>
   </tr>
   <tr>
@@ -97,6 +131,7 @@ I sit at the intersection of **code, strategy and execution** — I understand t
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 **Infrastructure & Data**
 
@@ -107,13 +142,15 @@ I sit at the intersection of **code, strategy and execution** — I understand t
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**AI & Automation**
+**AI & Integrations**
 
 ![LM Studio](https://img.shields.io/badge/LM_Studio-000000?style=flat-square)
 ![Meta Llama](https://img.shields.io/badge/Meta_Llama-0467DF?style=flat-square&logo=meta&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFF?style=flat-square)
 ![Sage](https://img.shields.io/badge/Sage_ERP-00DC00?style=flat-square&logo=sage&logoColor=white)
+![EBP](https://img.shields.io/badge/EBP-005CA9?style=flat-square)
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
+![AS400](https://img.shields.io/badge/IBM_AS400-054ADA?style=flat-square&logo=ibm&logoColor=white)
 
 ---
 
@@ -130,13 +167,13 @@ I sit at the intersection of **code, strategy and execution** — I understand t
 
 ---
 
-### Sectors I've worked in
+### Sectors
 
-`Hospitality` `Healthcare` `HR & Staffing` `Press & Media` `Tourism` `Real Estate` `E-commerce` `Events` `Public Sector`
+`Press & Media` `Hospitality` `Tourism` `Healthcare` `HR & Staffing` `Real Estate` `E-commerce` `Events` `Public Sector` `Legal Notices` `Public Procurement`
 
 ---
 
 <p align="center">
   <strong>Need a technical partner who understands business?</strong><br/>
-  <a href="mailto:contact@ethsam.fr">contact@ethsam.fr</a> &middot; <a href="https://www.agence.re">agence.re</a> &middot; <a href="https://www.scaleinsight.fr">scaleinsight.fr</a> &middot; <a href="https://www.viceversa.re">viceversa.re</a>
+  <a href="mailto:contact@ethsam.fr">contact@ethsam.fr</a> &middot; <a href="https://www.agence.re">agence.re</a> &middot; <a href="https://www.scaleinsight.fr">scaleinsight.fr</a> &middot; <a href="https://www.viceversa.re">viceversa.re</a> &middot; <a href="https://www.entrepreneur.re">entrepreneur.re</a>
 </p>
